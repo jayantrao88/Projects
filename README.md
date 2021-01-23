@@ -1,2 +1,2 @@
 # Projects
-Has projects showcasing specific methodologies 
+Has projects from Datacamp showcasing specific methodologies 
